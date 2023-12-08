@@ -1,0 +1,9 @@
+semanas;variacao;vp;vn;fp;fn;acuracia;precisao;sensibilidade;f1score;algoritmo;variavel
+1;20-35;0;14;14;0;0,5;0,0;0,0;0,0;lof;frequencia
+2;20-35;0;14;14;0;0,5;0,0;0,0;0,0;lof;frequencia
+3;20-35;0;14;14;0;0,5;0,0;0,0;0,0;lof;frequencia
+4;20-35;1;14;13;0;0,5357142857142857;0,07142857142857142;1,0;0,13333333333333333;lof;frequencia
+5;20-35;1;14;13;0;0,5357142857142857;0,07142857142857142;1,0;0,13333333333333333;lof;frequencia
+6;20-35;0;14;14;0;0,5;0,0;0,0;0,0;lof;frequencia
+7;20-35;0;14;14;0;0,5;0,0;0,0;0,0;lof;frequencia
+8;20-35;0;14;14;0;0,5;0,0;0,0;0,0;lof;frequencia
