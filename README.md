@@ -26,5 +26,5 @@ Pasta referente aos experimentos com o dataset EHealth.
 Pasta referente aos experimentos realizados com o dataset DatasetEHEALTH.
 /Experimentos_DatasetEHEALTH
 
-Para cada dataset foram gerados notebooks que deve ser executados em ordem sequencial, conforme numeração.
+Para cada dataset, foram gerados notebooks, que deve ser executados em ordem sequencial conforme numeração.
 Os resultados dos expermentos presentes na dissertação foram compilados a partir dos resultados nos experimentos realizados em ambos datasets.
