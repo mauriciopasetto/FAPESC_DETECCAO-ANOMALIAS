@@ -21,3 +21,10 @@ Os experimentos foram realizado com a utilização do Jupyter Notebook.
 Para rodá-los você precisa instalar o Anaconda.
 Link para download: https://www.anaconda.com/download 
 
+Pasta referente aos experimentos com o dataset EHealth.
+/Experimentos_DatasetEHEALTH
+Pasta referente aos experimentos realizados com o dataset DatasetEHEALTH.
+/Experimentos_DatasetEHEALTH
+
+Para cada dataset foram gerados notebooks que deve ser executados em ordem sequencial, conforme numeração.
+Os resultados dos expermentos presentes na dissertação foram compilados a partir dos resultados nos experimentos realizados em ambos datasets.
